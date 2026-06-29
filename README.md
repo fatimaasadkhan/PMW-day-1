@@ -26,3 +26,4 @@ This repository contains my Week 1 internship work for the PMW Youth x AI progra
 
 **Fatima Asad**
 FAST University
+Week 1 setup completed successfully.
